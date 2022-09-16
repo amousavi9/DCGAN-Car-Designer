@@ -1,4 +1,7 @@
-<img src="https://github.com/amousavi9/DCGAN-Car-Design/blob/main/results/generated-images-epoch-109.png" width="500" height="500"/>
-<hr style="border:2px solid gray">
-
 # DCGAN-Car-Design
+
+<img src="https://github.com/amousavi9/DCGAN-Car-Design/blob/main/results/generated-images-epoch-109.png" width="500" height="500"/>
+
+
+<img src="https://github.com/amousavi9/DCGAN-Car-Design/blob/main/results/generated-images-epoch-200.png" width="500" height="500"/>
+
